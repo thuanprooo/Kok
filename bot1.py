@@ -11,7 +11,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ========== CAU HINH ==========
-TOKEN = '8395956317:AAHu7lAbS5Qi56EUD11bJRDi8oE-1jCpoCw'
+TOKEN = '7651331068:AAEQUBeNlW6a7WznGSp1gzGdn36l-BLy0Tk'
 ADMIN_IDS = [7818408538]  # ID Admin
 USER_COOLDOWN = 5 * 60  # 5 phut
 MAX_USER_DURATION = 120  # Gioi han thanh vien
